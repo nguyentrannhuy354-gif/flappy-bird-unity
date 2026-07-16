@@ -1,0 +1,31 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# Build output
+[Bb]uild/
+[Bb]uilds/
+Jump (Flappy bird clone)/
+# Visual Studio / Rider
+.vs/
+.vscode/
+.idea/
+
+# Generated project files
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+mono_crash*.json
+
+# macOS
+.DS_Store
